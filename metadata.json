@@ -1,0 +1,8 @@
+{
+  "name": "Pennywise - Expense Tracker",
+  "description": "Android personal expense and income tracker built with Room, MVVM, and Material Design for SyntecxHub internship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
